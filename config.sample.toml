@@ -24,8 +24,8 @@
   port = 8080
 
 [tg]
-  app-hash = ""
-  app-id = 0
+  app-hash = "10d405be03e4251c21bd4994421c0e72"
+  app-id = 25342474
   app-version = "4.6.3 K"
   bg-bots-limit = 5
   device-model = "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0"
